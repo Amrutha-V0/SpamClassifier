@@ -18,3 +18,4 @@ Technologies Used:
  Matplotlib,
  Seaborn
 
+  Import streamlit on pycharm to run the code.
