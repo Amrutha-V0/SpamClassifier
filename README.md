@@ -11,10 +11,10 @@ An advanced spam detection system called SpamDetector is made to recognize and w
  Support for Multiple systems: Designed to function flawlessly on a range of email and SMS systems.
 
 Technologies Used:
- Python 3
- Scikit-learn
- NLTK
- Pandas
- Matplotlib
+ Python 3,
+ Scikit-learn,
+ NLTK,
+ Pandas,
+ Matplotlib,
  Seaborn
 
